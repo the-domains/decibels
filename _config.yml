@@ -1,0 +1,14 @@
+layout_spectrum: 0.4829787
+typography_spectrum: 0.09574468
+color:
+  lightness: 0.5109431
+  brandStrength: 0.4148936
+  saturation: 0.6741058
+  rhythmicContrast: 0.2783144
+  brandColors:
+    - '#0E0D0F'
+    - '#938B86'
+    - '#AFA9A3'
+    - '#3D393C'
+    - '#A3D267'
+name: DECIBELS
