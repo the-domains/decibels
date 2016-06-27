@@ -1,8 +1,20 @@
 layout_spectrum: 0.4829787
-typography_spectrum: 0.09574468
+name: DECIBELS
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.5109431
   brandStrength: 0.4148936
+  lightness: 0.5109431
   saturation: 0.6741058
   rhythmicContrast: 0.2783144
   brandColors:
@@ -11,4 +23,4 @@ color:
     - '#AFA9A3'
     - '#3D393C'
     - '#A3D267'
-name: DECIBELS
+typography_spectrum: 0.09574468
