@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DECIBELS]]></title>
         <description><![CDATA[DECIBELS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/decibels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 05:29:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 06:19:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/decibels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Summer Bundle]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd2b60bd-7d4d-4a95-b854-4ec58f6b40b3.jpg">]]></description>
-            <link>undefinedsummer-bundle/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ecd99c9-5808-4c6c-87a5-2ae8d70afcd3.jpg">]]></description>
+            <link>https://thegrid.ai/decibels/summer-bundle/index.html</link>
             <guid isPermaLink="false">5626afda-81dc-4409-a8d3-b610d3cc42f2</guid>
-            <pubDate>Mon, 27 Jun 2016 05:29:23 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2016 06:19:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
